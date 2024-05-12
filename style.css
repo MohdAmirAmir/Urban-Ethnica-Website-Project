@@ -122,10 +122,11 @@ h1{
         color:black;
     }
     nav #view{
-        background-color:black;
+        background-color:white;
         padding:30px;
-        color:white;
+        color:black;
         border-radius:50%;
+        border:1px solid black;
     }
     nav #sidenav{
         display:flex;
