@@ -1,3 +1,7 @@
+@font-face{
+    font-family: Raleway;
+    src:url("Raleway.zip");
+}
 *{
     margin:0px;
     padding:0px;
